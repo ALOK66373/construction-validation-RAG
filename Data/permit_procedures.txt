@@ -1,0 +1,249 @@
+BBMP BUILDING PERMIT PROCEDURES AND FEES
+A Complete Guide for Property Owners and Builders in Bangalore
+(As per BBMP Building Bye-Laws and Karnataka Town and Country Planning Act)
+
+=============================================================================
+CHAPTER 1 — OVERVIEW: WHAT APPROVALS DO YOU NEED?
+=============================================================================
+
+Every construction project in Bangalore goes through multiple approval stages:
+
+STAGE 1 — BUILDING PLAN APPROVAL (BPA)
+  Also called "Sanctioned Plan" or "BBMP Approval".
+  Required before any construction begins.
+  The approved plan authorises the height, FAR, setbacks, and use of the building.
+
+STAGE 2 — COMMENCEMENT CERTIFICATE (CC)
+  Issued after BPA is granted and before the foundation is laid.
+  You submit a commencement notice; BBMP issues the CC within 7 working days.
+  Construction must start within 12 months of BPA grant, otherwise the plan lapses.
+
+STAGE 3 — PLINTH CERTIFICATE
+  After the foundation and plinth are constructed (before ground floor columns begin),
+  a BBMP engineer inspects to verify the building is being built as per the approved plan.
+  This inspection is done once within 30 days of plinth completion notification.
+
+STAGE 4 — OCCUPANCY CERTIFICATE (OC)
+  Issued after construction is fully complete.
+  The OC certifies the building is safe for occupation and was built as per the approved plan.
+  Without an OC, the building is technically not legally fit for occupation.
+  Banks require an OC for home loans. Property registration may be refused without an OC.
+
+STAGE 5 — KHATA REGISTRATION
+  After OC, register the property in the BBMP Khata register.
+  A Khata is the official BBMP record of the property owner and the property tax assessment.
+  A-Khata (regular): For properties built with full BBMP approval and OC.
+  B-Khata: For properties with incomplete documentation or built before regulations.
+
+=============================================================================
+CHAPTER 2 — WHO IS AUTHORISED TO FILE BUILDING PLANS?
+=============================================================================
+
+Building plan drawings must be prepared by a licensed professional:
+  • Licensed Building Architect: Registered with the Council of Architecture (COA) under the Architects Act 1972.
+  • Licensed Structural Engineer: Registered with BBMP empanelled structural engineers list.
+
+The Architect must submit a certificate of compliance signed and stamped (Professional Indemnity Certificate).
+The Structural Engineer must submit a structural stability certificate for all buildings above G+2.
+
+The property owner must also submit a Power of Attorney (POA) if the application is filed by an agent or builder on behalf of the owner.
+
+=============================================================================
+CHAPTER 3 — DOCUMENTS REQUIRED FOR BUILDING PLAN APPROVAL
+=============================================================================
+
+The following documents must be submitted along with the building plan application to BBMP:
+
+3.1 OWNERSHIP DOCUMENTS:
+  ✓ Sale Deed / Registered Title Deed (original + 2 photocopies)
+  ✓ Encumbrance Certificate (EC) for the previous 30 years from the Sub-Registrar Office
+  ✓ Property Tax Paid Receipt (latest year)
+  ✓ Khata Certificate and Extract from BBMP
+  ✓ City Survey Sketch or RTC (Record of Rights) from Revenue Department
+
+3.2 LAND-RELATED DOCUMENTS:
+  ✓ BBMP Conversion Order (for plots converted from agricultural to non-agricultural use)
+  ✓ NA Certificate if recently converted
+  ✓ Layout approval plan (if the site is part of a BBMP or BDA approved layout)
+  ✓ BBMP Marginal Assessment (for the site's area and boundary confirmation)
+
+3.3 DRAWINGS (PREPARED BY LICENSED ARCHITECT):
+  ✓ Site Plan showing the plot boundaries, road width, and north direction (Scale 1:100 or 1:200)
+  ✓ Floor plans for all floors, including roof plan (Scale 1:50 or 1:100)
+  ✓ Elevations (all four sides)
+  ✓ Sections (longitudinal and cross sections)
+  ✓ Schedule of Areas: Plot area, built-up area per floor, total FAR computation
+  ✓ Parking layout showing ECS counts and access aisles
+  ✓ Rainwater Harvesting layout plan
+  ✓ Solar Water Heater schematic (if required)
+
+3.4 STRUCTURAL AND SERVICES:
+  ✓ Structural Design report and drawings (for G+2 and above) — signed by Structural Engineer
+  ✓ Soil Investigation report (for G+3 and above)
+  ✓ MEP (Mechanical, Electrical, Plumbing) drawings for buildings above 500 sq m total built-up area
+
+3.5 SPECIAL CLEARANCES (IF APPLICABLE):
+  ✓ Airport Authority of India NOC (for plots within 20 km of airport)
+  ✓ Fire NOC from Karnataka Fire Services (for buildings above 15 m or above 500 sq m)
+  ✓ Heritage Zone Clearance (for sites within heritage precincts)
+  ✓ KSPCB NOC (Karnataka State Pollution Control Board) for industrial buildings
+  ✓ Environmental Clearance for projects above 20,000 sq m built-up area
+
+3.6 AFFIDAVITS AND DECLARATIONS:
+  ✓ Owner's affidavit (on Rs 100 stamp paper) declaring the ownership and intended use
+  ✓ Architect's compliance certificate
+  ✓ Structural Engineer's stability certificate
+
+=============================================================================
+CHAPTER 4 — BUILDING PLAN APPROVAL FEES (BBMP 2023–24)
+=============================================================================
+
+4.1 SCRUTINY FEES (RESIDENTIAL BUILDINGS):
+  Fees are calculated per sq m of total proposed built-up area:
+
+  Up to 75 sq m built-up area:       Rs 5 per sq m + Rs 500 fixed charge
+  75 to 300 sq m built-up area:      Rs 10 per sq m
+  300 to 600 sq m built-up area:     Rs 15 per sq m
+  600 to 1,000 sq m built-up area:   Rs 20 per sq m
+  Above 1,000 sq m built-up area:    Rs 25 per sq m + Rs 5,000 fixed charge
+
+Example Calculation:
+  A G+2 residential building with 250 sq m total built-up area:
+  Scrutiny fee = 250 sq m × Rs 10 = Rs 2,500
+
+4.2 LICENCE FEE / PERMIT FEE:
+  This fee is separate from the scrutiny fee and is calculated based on the total permissible FAR consumed:
+  For residential: Rs 50 per sq m of built-up area sanctioned
+  For commercial:  Rs 100 per sq m of built-up area sanctioned
+  Mixed-use:       Commercial fee for commercial floors + residential fee for residential floors
+
+4.3 LABOUR CESS:
+  As per the Karnataka Building and Other Construction Workers' Act, 1 % of total estimated construction cost (as per BBMP schedule of rates) is payable as labour cess before the BPA is issued.
+
+4.4 OTHER LEVIES:
+  • Infrastructure Development Fee: Rs 200–Rs 500 per sq m (varies by zone)
+  • Tree Cutting / Compensatory Afforestation Fee: Rs 5,000 per tree if any tree needs to be cut
+  • Heritage Zone Surcharge: 2× normal scrutiny fee for plots in heritage precincts
+  • BWSSB connection fee: Rs 2,000–Rs 5,000 depending on plot size (paid separately to BWSSB)
+
+4.5 OCCUPANCY CERTIFICATE FEES:
+  OC application fee: Rs 1,000 (flat fee)
+  BBMP inspection and certification: Rs 500 per visit (typically 1–2 visits)
+
+=============================================================================
+CHAPTER 5 — THE APPROVAL PROCESS: STEP BY STEP
+=============================================================================
+
+STEP 1 — PRE-APPLICATION CONSULTATION (OPTIONAL BUT RECOMMENDED)
+  Visit the BBMP Ward Office or BBMP Planning Department for your ward to:
+    • Verify zoning and permissible FAR for your plot
+    • Check any road widening proposals that could affect setbacks
+    • Confirm if any special clearances apply
+
+STEP 2 — APPOINT AN ARCHITECT
+  Appoint a Council of Architecture (COA) licensed architect in Bangalore.
+  The architect will prepare all drawings, compute FAR/setbacks, and file the application.
+
+STEP 3 — PREPARE APPLICATION PACKAGE
+  The architect compiles all documents listed in Chapter 3 and submits them via:
+    • Online: BBMP's Online Building Plan Approval System (OBPAS) at bbmp.gov.in
+    • Offline: In-person at the relevant BBMP Zonal Office
+
+STEP 4 — APPLICATION ACCEPTANCE AND SCRUTINY FEE PAYMENT
+  After submission, BBMP assigns an application number.
+  Pay scrutiny fee and other levies online or at the ward office cash counter.
+  Receipt of fee payment must be uploaded/attached.
+
+STEP 5 — TECHNICAL SCRUTINY
+  BBMP engineers scrutinise the application for:
+    • FAR compliance
+    • Setback compliance
+    • Parking adequacy
+    • Fire safety compliance
+    • Structural adequacy (for G+2 and above)
+  Timeline: 30 working days for approval (for buildings up to G+3)
+             60 working days for high-rise buildings (above G+3)
+
+STEP 6 — DEFICIENCY NOTICE (IF ANY)
+  If any document is missing or there is a violation, BBMP issues a Deficiency Notice.
+  The applicant must respond within 30 days by correcting and resubmitting.
+  Failure to respond within 30 days may cause the application to lapse.
+
+STEP 7 — SANCTION / APPROVAL LETTER
+  Once all documents are in order and fees are paid, BBMP issues:
+    • Sanctioned Building Plan (stamped and signed by BBMP Planning Department)
+    • Approval letter specifying conditions, limitations, and the validity period
+
+STEP 8 — COMMENCEMENT
+  Before breaking ground, notify BBMP of commencement by submitting the Commencement Notice.
+  Commence construction within 12 months of plan sanction, or the sanction lapses.
+
+STEP 9 — CONSTRUCTION AND INSPECTIONS
+  Three mandatory inspections during construction:
+    1. Plinth-level inspection (before ground floor columns begin)
+    2. Mid-construction inspection (at slab level of each floor, for G+3 and above)
+    3. Completion inspection (before OC is issued)
+
+STEP 10 — OCCUPANCY CERTIFICATE
+  After construction is complete:
+    a. Appoint a BBMP empanelled inspection agency (for buildings above 1,000 sq m)
+    b. Submit OC application with: completion notice, as-built drawings, structural certificate
+    c. Pay OC fee
+    d. BBMP Inspector visits and verifies
+    e. OC issued within 30 working days of complete OC application
+
+=============================================================================
+CHAPTER 6 — ADDING FLOORS TO AN EXISTING BUILDING
+=============================================================================
+
+If you want to add one or more floors to an existing building (vertical addition), the process differs:
+
+6.1 WHAT IS REQUIRED:
+  • Revised Building Plan Approval (same documents as new construction, plus the existing approved plan)
+  • Structural Assessment Certificate by a licensed Structural Engineer confirming the existing structure can bear the additional load.
+  • If the original construction has no BBMP approval: You must first obtain Regularisation of the existing structure (if eligible) before applying for addition approval.
+
+6.2 KEY COMPLIANCE CHECKS FOR ADDITIONS:
+  • The total building height after addition must remain within permissible limits for the road width.
+  • The combined FAR of existing + new floors must not exceed the permissible FAR for the plot.
+  • Setbacks of the existing building must comply with the requirements applicable to the final height (after addition). If the existing building's setbacks are less than what the final height requires, the addition may not be sanctioned unless the deficiency can be resolved.
+  • Parking must be re-assessed for the total building (existing + new floors).
+
+6.3 FEES FOR ADDITIONS:
+  Scrutiny and permit fees are payable only on the area being added (not the entire building).
+  Structural assessment fee is additional, charged by the private Structural Engineer.
+
+=============================================================================
+CHAPTER 7 — REGULARISATION SCHEME
+=============================================================================
+
+Buildings constructed without BBMP approval or deviating from the approved plan may be regularised (legalised) under the periodic Akrama-Sakrama (AS) scheme or under Section 321 of the BBMP Act, subject to:
+  • The deviation must not violate safety requirements (setbacks for fire, structural stability).
+  • Payment of a Regularisation Fee ranging from Rs 500 to Rs 5,000 per sq m depending on the extent of deviation.
+  • The regularisation scheme is not permanently open — it is activated periodically by the Karnataka Government. Check with BBMP or a licensed architect for current status.
+
+=============================================================================
+CHAPTER 8 — FREQUENTLY ASKED QUESTIONS
+=============================================================================
+
+Q: How long does building plan approval take in Bangalore?
+A: For a simple residential building (G+2 or below) with complete documents: 30–45 working days. For high-rise buildings (above G+3): 60–90 working days.
+
+Q: Can I start construction before getting approval?
+A: No. Starting construction before BPA is issued is illegal under the BBMP Act and the Karnataka Municipal Corporations Act. Unauthorised construction may be demolished, and a penalty of up to 5× the regularisation fee may be imposed.
+
+Q: What is the difference between a BDA site and a BBMP plot?
+A: BDA (Bangalore Development Authority) developed layouts have a BDA approval for the layout itself. Individual buildings on BDA sites still require BBMP building plan approval. The BDA site plan or allotment letter must be included in the BPA application.
+
+Q: My plot is in a BBMP peripheral area added after 2010. Do I need BBMP approval?
+A: Yes. All areas within BBMP limits require BBMP building plan approval. The applicable FAR and bylaws may differ between core areas and peripheral areas — verify at the BBMP Zonal Office.
+
+Q: Is Khata necessary for a home loan?
+A: Yes. Banks require both an OC (Occupancy Certificate) and an A-Khata for approving home loans for resale or construction properties.
+
+Q: What is the penalty for building without a plan?
+A: Under BBMP Act Section 322, unauthorised construction is punishable with a fine up to Rs 5 lakh and/or demolition of the unauthorised structure at the owner's cost.
+
+=============================================================================
+END OF PERMIT PROCEDURES DOCUMENT
+=============================================================================

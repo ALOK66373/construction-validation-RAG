@@ -1,0 +1,206 @@
+NATIONAL BUILDING CODE OF INDIA 2016 (NBC 2016)
+Bureau of Indian Standards — Summary for Residential and Commercial Buildings
+
+=============================================================================
+PART 1 — GENERAL REQUIREMENTS
+=============================================================================
+
+SECTION 1.1: SCOPE AND APPLICATION
+The National Building Code of India 2016 applies to all new buildings, additions, alterations, and change of use for any building or structure in India. Local municipal bodies may adopt more stringent provisions, but shall not relax the minimum requirements of this code. All building work must comply with NBC 2016 as well as any applicable state or local bylaws.
+
+SECTION 1.2: DEFINITIONS
+Plot Area: The total area of the site on which the building is constructed, measured at plinth level.
+Floor Area Ratio (FAR): Also known as Floor Space Index (FSI). The ratio of the total floor area of all floors in a building to the area of the plot. FAR = Total Covered Area on All Floors / Plot Area.
+Ground Coverage: The ratio of the built-up area covered at ground level to the total plot area.
+Setback: The minimum required distance between the building boundary and the plot boundary (front, rear, or side).
+Height of Building: The vertical distance from the average finished ground level adjacent to the building to the highest point of the building, including any mechanical room or staircase enclosure above the top floor.
+Occupancy: The purpose for which a building or part of a building is used or intended to be used.
+
+SECTION 1.3: BUILDING CATEGORIES
+Group A — Residential: Includes detached houses, row houses, apartments, and hostels.
+Group B — Educational: Schools, colleges, universities, libraries.
+Group C — Institutional: Hospitals, nursing homes, jails, orphanages.
+Group D — Assembly: Theatres, auditoria, places of worship, stadiums.
+Group E — Business: Offices, banks, professional establishments.
+Group F — Mercantile: Shops, stores, supermarkets, covered markets.
+Group G — Industrial: Factories, workshops, workshops, power plants.
+Group H — Storage: Warehouses, cold storages, garages.
+Group I — Hazardous: Buildings handling or storing flammable/explosive substances.
+
+=============================================================================
+PART 2 — DEVELOPMENT CONTROL REGULATIONS
+=============================================================================
+
+SECTION 2.1: FLOOR AREA RATIO (FAR / FSI) STANDARDS
+For residential buildings (Group A), the permissible FAR varies by plot size and zone:
+  • Plots up to 100 sq m:      FAR up to 1.75 in residential zones
+  • Plots 100–300 sq m:        FAR up to 1.50 in residential zones
+  • Plots 300–500 sq m:        FAR up to 1.25 in residential zones
+  • Plots above 500 sq m:      FAR up to 1.00 in residential zones
+  • Commercial zones:          FAR up to 2.50 (subject to local bye-laws)
+  • Mixed-use corridors:       FAR up to 3.00 (where permitted by local authority)
+
+FAR Calculation Example:
+  Plot Area = 200 sq m, Permissible FAR = 1.5
+  Maximum Permitted Built-Up Area = 200 × 1.5 = 300 sq m
+  If ground coverage = 50%, then Ground Floor Area = 100 sq m
+  Number of floors permitted = 300 / 100 = 3 floors (Ground + 2 upper floors, i.e., G+2)
+
+SECTION 2.2: SETBACK REQUIREMENTS (NATIONAL MINIMUMS)
+Setbacks are measured from the outer face of the building wall to the plot boundary. Local bylaws may specify additional setbacks.
+
+For residential buildings by building height:
+  Stilt/G+0 (up to 6m height):
+    Front setback: Minimum 1.5 m from front plot boundary
+    Rear setback:  Minimum 1.5 m
+    Side setbacks: Minimum 1.0 m on each side
+
+  G+1 (up to 9m height):
+    Front setback: Minimum 2.0 m
+    Rear setback:  Minimum 2.0 m
+    Side setbacks: Minimum 1.5 m on each side
+
+  G+2 (up to 12m height):
+    Front setback: Minimum 2.5 m
+    Rear setback:  Minimum 2.5 m
+    Side setbacks: Minimum 2.0 m on each side
+
+  G+3 (up to 15m height):
+    Front setback: Minimum 3.0 m
+    Rear setback:  Minimum 3.0 m
+    Side setbacks: Minimum 2.0 m on each side
+
+  G+4 and above (above 15m):
+    Front setback: Minimum 4.0 m or H/6 (height divided by 6), whichever is greater
+    Rear setback:  Minimum 4.0 m or H/6, whichever is greater
+    Side setbacks: Minimum 3.0 m or H/8, whichever is greater
+    (H = total height of building)
+
+Corner plots: Both road-facing sides are treated as front setbacks.
+Zero setback (common wall): Permitted between two adjacent residential plots if both owners consent in writing, subject to local regulations.
+
+SECTION 2.3: GROUND COVERAGE (MAXIMUM PERMISSIBLE)
+The ground coverage is the percentage of the plot that may be covered by the building at ground level.
+  Residential plots up to 100 sq m:    Maximum 70% ground coverage
+  Residential plots 100–250 sq m:      Maximum 60% ground coverage
+  Residential plots above 250 sq m:    Maximum 50% ground coverage
+  Commercial plots:                    Maximum 60% ground coverage
+  Industrial plots:                    Maximum 50% ground coverage
+
+=============================================================================
+PART 3 — STRUCTURAL SAFETY
+=============================================================================
+
+SECTION 3.1: FOUNDATION REQUIREMENTS
+All foundations must be designed to safely transmit all dead, live, and seismic loads to the soil without exceeding its safe bearing capacity. A soil investigation report is mandatory for buildings of 3 or more storeys, buildings on sloped terrain, and all buildings in areas designated as seismic zones III, IV, or V.
+
+The safe bearing capacity of soil must be determined by a licensed Geotechnical Engineer. Common residential buildings (G+1 or less) in well-consolidated soil may use presumptive values from NBC Table 4, provided the building is on a flat site, the soil is non-expansive, and the plot is not within 100 m of a waterbody.
+
+SECTION 3.2: SEISMIC DESIGN REQUIREMENTS
+India is divided into four seismic zones (II, III, IV, V) based on BIS 1893. Buildings must be designed to resist earthquake forces as per the applicable zone factor:
+  Zone II (Low):          Zone factor Z = 0.10
+  Zone III (Moderate):    Zone factor Z = 0.16
+  Zone IV (Severe):       Zone factor Z = 0.24
+  Zone V (Very Severe):   Zone factor Z = 0.36
+
+Most of Karnataka and Bangalore fall under Seismic Zone II or III. However, the design code requires that all RCC framed buildings above ground floor be designed with ductile detailing per IS 13920.
+
+SECTION 3.3: STRUCTURAL MATERIALS
+Concrete: Minimum grade M20 (characteristic compressive strength 20 MPa) for all structural members in reinforced concrete construction. Higher grades (M25 or above) are required for columns in buildings above G+4.
+Steel reinforcement: Fe415 or Fe500 grade conforming to IS 1786.
+Masonry: All load-bearing masonry walls in buildings above ground floor must use burnt clay bricks of at least Class 50 quality (minimum compressive strength 5 MPa) in cement mortar 1:4 or 1:6.
+
+=============================================================================
+PART 4 — FIRE SAFETY REQUIREMENTS
+=============================================================================
+
+SECTION 4.1: FIRE CLASSIFICATION OF BUILDINGS
+All buildings are classified as:
+  Type 1 (High-Rise): Height above 15 m (i.e., G+4 and above, or more than 5 storeys)
+  Type 2 (Low-Rise):  Height up to 15 m
+
+High-rise buildings (above 15 m) require:
+  • A fire NOC from the State Fire Department before construction begins.
+  • Automatic fire detection and alarm system throughout the building.
+  • Wet riser system or internal fire hydrants on every floor.
+  • Refuge areas at every 15th floor (for buildings above 24 m).
+  • Pressurised staircase to prevent smoke ingress.
+  • Emergency lighting and illuminated exit signs on all floors.
+
+SECTION 4.2: STAIRCASE REQUIREMENTS
+Every residential building with 3 or more floors (G+2 and above) must have at minimum one fire-protected staircase. The staircase must be:
+  • Minimum 1.0 m clear width for residential buildings.
+  • 1.5 m minimum width for buildings with mixed use or commercial components.
+  • Stair treads minimum 250 mm, risers maximum 190 mm.
+  • Handrails on both sides of staircase for buildings above G+2.
+  • A protected lobby of minimum 2 sq m before the staircase entry at every floor.
+
+Buildings above 18 m height must also have at least one lift (elevator) accessible to persons with disabilities.
+
+SECTION 4.3: EXITS AND MEANS OF ESCAPE
+Travel distance to a nearest exit must not exceed:
+  • 22.5 m for Group A (residential), unsprinklered
+  • 30 m for Group A (residential), fully sprinklered
+The minimum width of exit doors is 900 mm for residential buildings.
+
+=============================================================================
+PART 5 — PLUMBING AND SANITATION
+=============================================================================
+
+SECTION 5.1: MINIMUM SANITATION REQUIREMENTS
+Every dwelling unit must have:
+  • At least one water closet (toilet)
+  • At least one bathroom or bathing area
+  • A kitchen sink with running water supply
+  • A dishwashing area connected to the drainage system
+
+For buildings with 4 or more dwelling units:
+  • A common septic tank or connection to the municipal sewer system
+  • A separate underground sump with minimum capacity of 1,000 litres per dwelling unit
+  • An overhead tank of minimum 500 litres per dwelling unit
+
+SECTION 5.2: WATER SUPPLY STANDARDS
+Minimum daily water supply per capita per day:
+  Residential:    135 litres per person per day (lpcd)
+  Hotels:         180 lpcd
+  Offices:         45 lpcd per employee
+  Hospitals:      450 lpcd (including beds, staff, laundry)
+
+For building plan approval, the applicant must show that the municipal water supply or a borewell can meet these demands, or provide a water recycling plan for buildings above 2,000 sq m total built-up area.
+
+SECTION 5.3: RAINWATER HARVESTING
+Rainwater harvesting is mandatory under NBC 2016 for all new buildings with a plot area above 100 sq m, or where the total built-up area exceeds 200 sq m. Structures must include:
+  • Rooftop collection channels and downpipes
+  • A first-flush device to divert the first 5 minutes of rain
+  • A storage tank or recharge pit of minimum 10,000 litres for plots up to 500 sq m, and larger for bigger plots
+
+Buildings that fail to include a compliant rainwater harvesting system will not receive an Occupancy Certificate.
+
+=============================================================================
+PART 6 — ACCESSIBILITY
+=============================================================================
+
+SECTION 6.1: ACCESSIBILITY REQUIREMENTS
+All new buildings with a total built-up area above 500 sq m, or any public building (Groups B, C, D, E, F), must comply with NBC 2016 Part 8 on Accessibility. Requirements include:
+  • A ramped or level access path from the public road to the main entrance (slope not steeper than 1:12, with handrails).
+  • At least one accessible toilet on the ground floor with turning radius of 1.5 m.
+  • Accessible parking spaces marked with the international symbol (1 per 20 regular spaces, minimum 1).
+  • Tactile indicators on all staircase landings.
+  • Lifts must have Braille floor indicators, audible announcements, and minimum car size 1100 mm × 1400 mm.
+
+=============================================================================
+PART 7 — ENERGY CONSERVATION
+=============================================================================
+
+SECTION 7.1: ENERGY CONSERVATION BUILDING CODE (ECBC)
+ECBC compliance is mandatory for new commercial buildings above 500 sq m (conditioned floor area) in India. For residential buildings, ECBC provides voluntary guidelines on:
+  • Window-to-wall ratio: Not exceeding 40% for climate zone 5 (warm and humid, applicable to coastal Karnataka and much of Tamil Nadu).
+  • Roof insulation: Thermal resistance U-value ≤ 0.261 W/m²K for composite climates (applicable to Bangalore and much of central India).
+  • Lighting power density: Maximum 10 W/sq m for offices, 6 W/sq m for residential common areas.
+
+SECTION 7.2: SOLAR WATER HEATING
+Solar water heating is mandatory for all new residential buildings with a plot area above 200 sq m, as per NBC 2016 and supported by state-level regulations. The system capacity must meet at least 60% of the daily hot water demand of the occupants.
+
+=============================================================================
+END OF NBC 2016 SUMMARY DOCUMENT
+=============================================================================

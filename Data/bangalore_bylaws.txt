@@ -1,0 +1,201 @@
+BBMP BUILDING BYLAWS — BRUHAT BENGALURU MAHANAGARA PALIKE
+Building Regulations for Bangalore City (Updated 2021)
+Published by BBMP Planning Department
+
+=============================================================================
+SECTION 1 — JURISDICTION AND APPLICABILITY
+=============================================================================
+
+These bylaws apply to all construction activity within the jurisdictional limits of the Bruhat Bengaluru Mahanagara Palike (BBMP), including all 198 wards of Greater Bangalore. Any new construction, addition, alteration, change of use, or demolition of a building within BBMP limits requires prior written permission from the Commissioner, BBMP. Buildings constructed without permission are illegal constructions and are liable for demolition, fine, or both.
+
+BBMP Zones: The city is divided into the following zones:
+  • Core Area (Old BMP limits, Majestic, Malleswaram, Jayanagar, BTM, etc.)
+  • Intermediate Ring Road Zone (between Ring Road and Outer Ring Road)
+  • Peripheral Zone (areas added after 2006 including Whitefield, Electronic City, Yelahanka, Sarjapur)
+  • Industrial Zone (Peenya, Bommasandra, Jigani)
+  • Green Belt and Agricultural Zone (preserved areas)
+
+=============================================================================
+SECTION 2 — FLOOR AREA RATIO (FAR / FSI) IN BANGALORE
+=============================================================================
+
+BBMP has enhanced FAR limits under the TOD (Transit-Oriented Development) policy and road-width-linked FAR. The FAR permitted depends on the road width in front of the plot:
+
+Road Width up to 9 m (less than 30 feet):
+  Residential:    FAR = 1.75  (maximum 3 floors G+2 for typical plots)
+  Commercial:     FAR = 1.75
+
+Road Width 9 m to 12 m (30–40 feet):
+  Residential:    FAR = 2.00
+  Commercial:     FAR = 2.50
+
+Road Width 12 m to 18 m (40–60 feet):
+  Residential:    FAR = 2.25
+  Commercial:     FAR = 3.00
+
+Road Width 18 m to 24 m (60–80 feet):
+  Residential:    FAR = 2.50
+  Commercial:     FAR = 3.25
+
+Road Width above 24 m (above 80 feet / national highways and ring roads):
+  Residential:    FAR = 3.25
+  Commercial:     FAR = 3.75
+
+NOTE: Above FAR figures are basic FAR. Additional premium FAR (up to 0.50 extra) may be purchased from BBMP by paying a premium charge per sq ft, subject to annual revision.
+
+TOD Corridor Bonus: Plots within 500 m of a metro rail station are eligible for an additional 0.50 FAR (subject to conditions including footpath widening, ground-floor retail setback, and public parking contribution).
+
+=============================================================================
+SECTION 3 — SETBACK REQUIREMENTS IN BANGALORE
+=============================================================================
+
+BBMP setbacks are based on building height and road width. They supersede NBC minimums and are generally more stringent for taller buildings.
+
+RESIDENTIAL SETBACKS (BBMP):
+
+G+0 (Ground floor only, up to 5 m height):
+  Front setback: 1.5 m (from front boundary)
+  Rear setback:  1.5 m
+  Side setbacks: 1.0 m each
+
+G+1 (Ground + 1, up to 8 m height):
+  Front setback: 2.0 m
+  Rear setback:  2.0 m
+  Side setbacks: 1.5 m each
+
+G+2 (Ground + 2, up to 11 m height):
+  Front setback: 3.0 m
+  Rear setback:  3.0 m
+  Side setbacks: 2.0 m each
+
+G+3 (Ground + 3, up to 14 m height):
+  Front setback: 4.0 m
+  Rear setback:  3.5 m
+  Side setbacks: 2.5 m each
+
+G+4 (Ground + 4, up to 17 m height):
+  Front setback: 5.0 m
+  Rear setback:  4.0 m
+  Side setbacks: 3.0 m each
+
+G+5 and above (above 17 m — high-rise):
+  Front setback: 6.0 m or H/5 (whichever is greater)
+  Rear setback:  5.0 m or H/6 (whichever is greater)
+  Side setbacks: 4.0 m or H/8 (whichever is greater)
+  (H = total building height in metres)
+
+SPECIAL SETBACK CONDITIONS:
+  • If the road in front of the plot is less than 6 m wide, the front setback is increased to ensure that 50% of the additional road widening is provided by the property owner.
+  • Sites abutting BBMP master plan roads: Mandatory setback increases to align with future road widening proposals.
+  • Heritage zones (e.g., Lalbagh, Cubbon Park vicinity): Additional 3 m setback on all sides.
+  • High-tension electric line clearance: Minimum 3 m lateral clearance from any overhead power line above 11 kV.
+
+COMMERCIAL AND MIXED-USE SETBACKS:
+  Front setback: Same as residential for equivalent height, or as specified in zoning map.
+  Ground-floor commercial with residential above: Front setback may be reduced to 0 m if arcade / covered walkway of minimum 2 m width is provided at street level.
+
+=============================================================================
+SECTION 4 — PARKING REQUIREMENTS IN BANGALORE
+=============================================================================
+
+All new buildings must provide adequate off-street parking as per the following BBMP standards:
+
+RESIDENTIAL PARKING:
+  Apartment (1 BHK): 1 car parking space per unit
+  Apartment (2 BHK): 1 car parking space per unit (2 preferred)
+  Apartment (3 BHK and above): 2 car parking spaces per unit
+  Independent house/villa (G+1 or G+2): 1 car parking space minimum
+  Independent house/villa above G+2: 2 car parking spaces minimum
+
+Each car parking space must be minimum 2.5 m × 5.5 m (ECS — Equivalent Car Space).
+Two-wheeler parking: 1 two-wheeler space for every 2 residential units.
+
+COMMERCIAL PARKING:
+  Offices, banks, IT parks:   3.0 ECS per 100 sq m of floor area
+  Retail shops / showrooms:   3.5 ECS per 100 sq m of floor area
+  Hotels (3-star and above):  1 ECS per 2 rooms plus 1 ECS per 5 restaurant seats
+  Hospitals:                  2 ECS per 5 hospital beds
+  Schools:                    1 ECS per 10 students capacity
+  Multiplexes / theatres:     1 ECS per 8 seats
+
+PARKING STRUCTURE DESIGN:
+  Ramp width (one-way): Minimum 3.0 m
+  Ramp width (two-way): Minimum 5.5 m
+  Ramp gradient:        Maximum 1:8 (12.5%)
+  Clear headroom in basement parking: Minimum 2.1 m at any point
+
+Parking spaces in the front setback are not permitted. Underground basement parking may be provided, subject to structural safety, groundwater conditions, and BBMP approval.
+
+=============================================================================
+SECTION 5 — HEIGHT RESTRICTIONS IN BANGALORE
+=============================================================================
+
+5.1 GENERAL HEIGHT LIMITS:
+  Residential areas (roads < 12 m wide):   Maximum G+3 (14 m height)
+  Residential areas (roads 12–18 m):       Maximum G+4 (17 m height)
+  Residential areas (roads above 18 m):    No height restriction (subject to FAR, setbacks, and airport clearance)
+  Commercial areas:                        No height restriction (subject to FAR and clearances)
+
+5.2 AIRPORT HEIGHT RESTRICTIONS:
+  Bangalore (Kempegowda International Airport) and HAL Airport impose strict height restrictions on buildings near the flight path. Any building within 20 km of the airport must obtain a No Objection Certificate (NOC) from Airports Authority of India (AAI) before construction.
+  Height limits vary by zone:
+    Approach zone (within 5 km):          Maximum building height 9 m above ground level
+    Transitional zone (5–10 km):          Height limit defined by AAI conical surface
+    Horizontal zone (10–20 km):           Maximum height 45 m above airport elevation
+
+5.3 HIGH-RISE BUILDINGS (ABOVE 15 M):
+  Buildings above 15 m height require:
+    1. Fire NOC from Karnataka Fire and Emergency Services
+    2. Structural stability certificate from a licensed Structural Engineer
+    3. Lift (elevator) installation with BBMP and Electrical Inspectorate approval
+    4. NOC from Bangalore Electricity Supply Company (BESCOM) for transformer capacity
+    5. NOC from Bangalore Water Supply and Sewerage Board (BWSSB) for water supply adequacy
+    6. Airport NOC if within 20 km of airport
+
+=============================================================================
+SECTION 6 — GREEN BUILDING AND SUSTAINABILITY REQUIREMENTS
+=============================================================================
+
+6.1 RAINWATER HARVESTING (MANDATORY):
+  All new buildings in BBMP limits with a plot area above 30 sq m must include a rainwater harvesting system. The requirement is:
+    Plots 30–100 sq m:         Minimum 1 recharge pit of 1 m × 1 m × 2 m (depth)
+    Plots 100–300 sq m:        Minimum 2 recharge pits or a sump of 10,000 litres capacity
+    Plots 300 sq m and above:  Minimum storage/recharge capacity = Plot area × 0.05 (in cubic metres)
+
+  Failure to install rainwater harvesting will result in non-issuance of Occupancy Certificate (OC) and an additional annual water tax surcharge of 25%.
+
+6.2 SOLAR WATER HEATING (MANDATORY):
+  Mandatory for all new residential buildings with a built-up area above 200 sq m.
+  Solar heater capacity: Minimum 100 litres per day per dwelling unit for apartments, or 200 litres per day for independent houses.
+
+6.3 COMPOSTING (MANDATORY):
+  As per BBMP SWM (Solid Waste Management) Regulations, all new residential layouts and apartment complexes with more than 20 units must include:
+    • Composting facility or vermicomposting pit of minimum 2 sq m per 10 units
+    • OR a connection to the BBMP bulk waste-to-energy scheme
+
+=============================================================================
+SECTION 7 — AMALGAMATION AND SUBDIVISION OF PLOTS
+=============================================================================
+
+Two or more adjacent plots may be amalgamated (merged) to form a single larger plot, subject to:
+  • Owner consent from all plot owners
+  • No amalgamation that results in a plot with irregular access or landlocked condition
+  • Payment of amalgamation charges to BBMP
+
+A plot may be subdivided into two or more plots, subject to:
+  • Minimum plot size after subdivision: 50 sq m (for residential)
+  • Each resulting plot must have minimum 4 m road frontage
+  • Subdivision plan approved by BBMP before registration
+
+=============================================================================
+SECTION 8 — SIGNAGE AND ADVERTISEMENT STRUCTURES
+=============================================================================
+
+All hoardings, sign boards, and illuminated advertisements attached to buildings require:
+  • BBMP license renewed annually
+  • Structural safety certificate for hoardings above 2 m height
+  • Maximum hoarding size on buildings: As per BBMP Advertisement Policy 2018
+
+=============================================================================
+END OF BBMP BUILDING BYLAWS SUMMARY
+=============================================================================
