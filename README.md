@@ -197,7 +197,3 @@ If needed, delete the `chroma_db/` folder and re-run ingestion.
 - The content is based on the local `.txt` knowledge files and should be kept updated as regulations change.
 
 ---
-
-## License
-
-This project is intended for educational and internal-use exploration of building-code retrieval systems.
